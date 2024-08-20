@@ -8,6 +8,4 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I believe that 'Hello, World!' is more than just a program, it's a lifestyle!
 
-- ![image](https://github.com/user-attachments/assets/cc2208d4-6186-4d70-b8e1-f85fb9f4d187)
-
-
+![Static Badge](https://img.shields.io/badge/!%5BJavaScript%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2FJavaScript-yellow%3Flogo%3Djavascript%26logoColor%3Dwhite))
