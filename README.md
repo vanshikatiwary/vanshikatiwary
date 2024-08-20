@@ -8,3 +8,6 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I believe that 'Hello, World!' is more than just a program, it's a lifestyle!
 
+- ![image](https://github.com/user-attachments/assets/cc2208d4-6186-4d70-b8e1-f85fb9f4d187)
+
+
