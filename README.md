@@ -14,10 +14,10 @@ A passionate DSA | MERN Stack developer from India
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/vanshikatiwary&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/vanshikatiwary&theme=dark)
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/vanshikatiwary)](https://github.com/ryo-ma/github-profile-trophy)
 
 
