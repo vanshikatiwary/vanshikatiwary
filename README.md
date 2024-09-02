@@ -17,6 +17,14 @@ A passionate DSA | MERN Stack developer from India
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
 
+## Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanshikaa.xz_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vanshikacodeshere)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vanshikacodeshere/profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vanshikatiwari)
+
+
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshikatiwary&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshikatiwary&theme=dark)
