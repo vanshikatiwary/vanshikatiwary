@@ -38,10 +38,4 @@ A passionate DSA | MERN Stack developer from India
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=vanshikatiwary)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshikatiwary&show_icons=true&theme=radical) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshikatiwary&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikatiwary&theme=dark&layout=compact)
-
-
 
