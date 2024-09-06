@@ -21,13 +21,6 @@ A passionate DSA | MERN Stack developer from India
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
-## Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanshikaa.xz_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vanshikacodeshere)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vanshikacodeshere/profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-tiwari-79a019222/)
-
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshikatiwary&show_icons=true&theme=radical) 
