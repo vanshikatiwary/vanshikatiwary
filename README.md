@@ -29,7 +29,10 @@ A passionate DSA | MERN Stack developer from India
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-tiwari-79a019222/)
 
 
-
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshikatiwary&show_icons=true&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshikatiwary&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikatiwary&theme=dark&layout=compact)
 
 
 ## Trophies
