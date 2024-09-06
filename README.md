@@ -8,6 +8,17 @@ A passionate DSA | MERN Stack developer from India
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I believe that 'Hello, World!' is more than just a program, it's a lifestyle!
 
+## Skills and Tools
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
 ## Connect with Me
