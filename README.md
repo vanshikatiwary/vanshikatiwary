@@ -27,13 +27,12 @@ A passionate DSA | MERN Stack developer from India
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vanshikacodeshere/profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshika-tiwari-79a019222/)
 
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=vanshikatiwary)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshikatiwary&show_icons=true&theme=radical) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshikatiwary&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshikatiwary&theme=dark&layout=compact)
-
-
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vanshikatiwary)](https://github.com/ryo-ma/github-profile-trophy)
 
 
