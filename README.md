@@ -8,7 +8,6 @@ A passionate DSA | MERN Stack developer from India
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I believe that 'Hello, World!' is more than just a program, it's a lifestyle!
   
-
 ## Skills and Tools
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
