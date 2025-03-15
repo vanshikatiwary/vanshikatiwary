@@ -1,5 +1,5 @@
 # Hi there, I'm Vanshika Tiwari!👋 
-A passionate DSA | MERN Stack developer from India
+A passionate DSA | Full Stack developer from India
 
 - 🔭 I’m currently persuing b.tech at VIT Bhopal University
 - 🌱 I’m currently learning Advance DSA and FullStack
