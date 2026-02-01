@@ -1,7 +1,7 @@
 # Hi there, I'm Vanshika Tiwari!👋 
 A passionate DSA | Full Stack developer from India
 
-- 🔭 I’m currently persuing b.tech at VIT Bhopal University
+- 🔭 I have pursued b.tech from VIT Bhopal University
 - 🌱 I’m currently learning Advance DSA and FullStack
 - 💬 Ask me about FullStack , Algorithm
 - 📫 How to reach me: tiwarivanshika573@gmail.com; https://www.linkedin.com/in/vanshika-tiwari-79a019222/
